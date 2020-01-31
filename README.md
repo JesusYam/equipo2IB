@@ -1,4 +1,5 @@
 
+
 Examen
 Proyecto: SmartHome
 
@@ -21,4 +22,4 @@ Proyecto: ETL
 
 |Velocidad|Transformción|Load
 |:---:   |:---:          |:---:
-|-> Extraccion-> Big data es un tema en agregar es decir , conforme una  recopilación el cual seria filtrada a travez de  un ncsu library|->Con los datos recopilados vamos a realizar||->LOAD-> La información se vera reflejada a travez de una tabla el cual seria organizada y personalizada dependiendo del usuario , es decir elegiría cual ver
+|-> Extraccion-> Big data es un tema en agregar es decir , conforme una  recopilación el cual seria filtrada a travez de  un ncsu library|->Con los datos recopilados vamos a realizar| -> Extraccion-> Big data es un tema en agregar es decir , conforme una  recopilación el cual seria filtrada a travez de  un ncsu library|->Con los datos recopilados vamos a realizar|->LOAD-> La información se vera reflejada a travez de una tabla el cual seria organizada y personalizada dependiendo del usuario , es decir elegiría cual ver |->LOAD-> La información se vera reflejada a travez de una tabla el cual seria organizada y personalizada dependiendo del usuario , es decir elegiría cual ver
