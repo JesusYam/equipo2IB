@@ -13,4 +13,4 @@ Proyecto: Las 5v's de Big Data
 
 |Velocidad|Variedad |Volumen|Veracidad|Valor
 |:---:   |:---:          |:---:|:---:|:---:
--> El proyecto obtiene este punto debido ah que  las acciones se realizan de manera instantánea, es decir una notificación por una acción|->El prototipo contiene diferentes puntos para que este pueda ser un producto completo abarcando , seguridad, comodidad. Un asistente como casa |-> El prototipo  se podría ver en un software  pero no es medible  (largo, ancho, alto)
+-> El proyecto obtiene este punto debido ah que  las acciones se realizan de manera instantánea, es decir una notificación por una acción|->El prototipo contiene diferentes puntos para que este pueda ser un producto completo abarcando , seguridad, comodidad. Un asistente como casa |-> El prototipo  se podría ver en un software  pero no es medible  (largo, ancho, alto)|->Aseguramos que   Ofrecemos un   software el cual obtienes  las herramientas de seguridad y Smart de forma que te sientas seguro en casa   pues sabemos  que ser vulnerable no es una opción|->Tu seguridad es importante, pero sabemos que el control es igual de importante
