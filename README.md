@@ -13,4 +13,4 @@ Proyecto: Las 5v's de Big Data
 
 |Velocidad|Variedad |Volumen|Veracidad|Valor
 |:---:   |:---:          |:---:|:---:|:---:
--> El proyecto obtiene este punto debido ah que  las acciones se realizan de manera instantánea, es decir una notificación por una acción
+-> El proyecto obtiene este punto debido ah que  las acciones se realizan de manera instantánea, es decir una notificación por una acción|->El prototipo contiene diferentes puntos para que este pueda ser un producto completo abarcando , seguridad, comodidad. Un asistente como casa |-> El prototipo  se podría ver en un software  pero no es medible  (largo, ancho, alto)
