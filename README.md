@@ -15,11 +15,17 @@ Proyecto: Las 5v's de Big Data
 
 |Velocidad|Variedad |Volumen|Veracidad|Valor
 |:---:   |:---:          |:---:|:---:|:---:
--> El proyecto obtiene este punto debido ah que  las acciones se realizan de manera instantánea, es decir una notificación por una acción|->El prototipo contiene diferentes puntos para que este pueda ser un producto completo abarcando , seguridad, comodidad. Un asistente como casa |-> El prototipo  se podría ver en un software  pero no es medible  (largo, ancho, alto)|->Aseguramos que   Ofrecemos un   software el cual obtienes  las herramientas de seguridad y Smart de forma que te sientas seguro en casa   pues sabemos  que ser vulnerable no es una opción|->Tu seguridad es importante, pero sabemos que el control es igual de importante
+-> El proyecto obtiene este punto debido ah que  las acciones se realizan de manera instantánea, es decir una notificación por una acción|->El prototipo contiene diferentes puntos para que este pueda ser un producto completo abarcando , seguridad, comodidad. Un asistente como casa ||->Aseguramos que   Ofrecemos un   software el cual obtienes  las herramientas de seguridad y Smart de forma que te sientas seguro en casa   pues sabemos  que ser vulnerable no es una opción|->Tu seguridad es importante, pero sabemos que el control es igual de importante
 
 Examen
 Proyecto: ETL
 
-|Velocidad|Transformción|Load
-|:---:   |:---:          |:---:
-|-> Extraccion-> Big data es un tema en agregar es decir , conforme una  recopilación el cual seria filtrada a travez de  un ncsu library|->Con los datos recopilados vamos a realizar| -> Extraccion-> Big data es un tema en agregar es decir , conforme una  recopilación el cual seria filtrada a travez de  un ncsu library|->Con los datos recopilados vamos a realizar|->LOAD-> La información se vera reflejada a travez de una tabla el cual seria organizada y personalizada dependiendo del usuario , es decir elegiría cual ver |->LOAD-> La información se vera reflejada a travez de una tabla el cual seria organizada y personalizada dependiendo del usuario , es decir elegiría cual ver
+|ETL en SmartHome
+|:---:
+|EXTRAEREMOS datos de todos los dispositivos que tengmos conectados en el hogar, cada vez que el usuario haga uso de estos seran almacenados en una base de 
+datos donde posteriormente serán TRANSFORMADOS, limpiaremos nuestros datos más importantes, ya que esta es una parte crítica, noralizaremos los datos
+para saber cuales son valiosos, eliminaremos datos redundantes, verificaremos los datos para poder detecar cambios en el uso que le han dado al sistema y así ofrecerlos 
+a diversos tipos de consumidores, clasificaremos nuestros datos según sea la sección de uso, un foco, una tv, en que parte del hogar se origíno, sala, comeder, habitación,
+baño. etc. Con los procesos anteriores se CARGARAN los datos de una manera organizada, en un formato de fecha y hora y con el lugar, previamente mencionado el la fase tranformción.
+Representaremos los datos en gráficas, en la apliacación y en el servicio web utilizando java script para un mejor analisis de información.
+
